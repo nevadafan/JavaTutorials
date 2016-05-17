@@ -5,6 +5,10 @@ import java.lang.*;
 import java.io.*;
 
 /* Name of the class has to be "Main" only if the class is public. */
+
+/* TUTORIAL 1 - Demonstrate basic "Hello, world" program 
+*/
+
 class IdeoneTut1
 {
 	public static void main (String[] args) throws java.lang.Exception
