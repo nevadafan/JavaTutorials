@@ -6,7 +6,9 @@ import java.io.*;
 
 /* Name of the class has to be "Main" only if the class is public. */
 
-/* discussing variables in Java */
+/* TUTORIAL 2 - 
+ * In this Tutorial, we are discussing variables in Java */
+ 
 class IdeoneTut2
 {
 	public static void main (String[] args) throws java.lang.Exception
