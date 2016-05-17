@@ -18,7 +18,7 @@ class IdeoneTut5
 		
 		System.out.println("ABSOLUTE VALUE = " + absValue);
 		
-		// TUTORIAL 5 : Data types (int, String, double)
+		// TUTORIAL 5 : Data types (int, String, double) & Math operators (+, -, *,/)
 		Scanner v_scan1 = new Scanner(System.in);
 		String yourName = "";
 		System.out.println("Please enter your name:");
@@ -29,6 +29,8 @@ class IdeoneTut5
 		int a = 1900;
 		int b = 47;
 		int c = a + b;
+		c = (c - 147)/100;
+		c = c* 10;
 		
 		
 		
