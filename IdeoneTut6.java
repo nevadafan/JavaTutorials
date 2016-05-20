@@ -18,7 +18,7 @@ class IdeoneTut6
 		
 		System.out.println("ABSOLUTE VALUE = " + absValue);
 		
-		// TUTORIAL 6
+		// TUTORIAL 6 : variables and the increment operator
 		Scanner v_scan1 = new Scanner(System.in);
 		String yourName = "";
 		System.out.println("Please enter your name:");
