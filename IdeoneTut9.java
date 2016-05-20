@@ -6,8 +6,8 @@ import java.io.*;
  
 /* Name of the class has to be "Main" only if the class is public. */
  
-/* TUTORIAL 7 - "if" statement
- * In this Tutorial, we are discussing the "if" statement in Java */
+/* TUTORIAL 9 - "switch" statement
+ * In this Tutorial, we are discussing the "switch" statement in Java */
  
 class IdeoneTut2
 {
