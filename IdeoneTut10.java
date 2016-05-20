@@ -6,8 +6,8 @@ import java.io.*;
 
 /* Name of the class has to be "Main" only if the class is public. */
 
-/* TUTORIAL 12 - Using Methods with Parameters
- * In this Tutorial, we are discussing how to use Methods with Parameters in Java */
+/* TUTORIAL 10 - Using While Loops
+ * In this Tutorial, we are discussing how to use While Loops in Java */
  
 class IdeoneTut2
 {
