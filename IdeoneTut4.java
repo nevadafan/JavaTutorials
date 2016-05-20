@@ -10,6 +10,8 @@ class IdeoneTut4
 	public static void main (String[] args) throws java.lang.Exception
 	{
 		// your code goes here
+
+		// TUTORIAL 4 - demonstrate objects
 		System.out.println("Hello, world!");
 		
 		// instantiate the class
@@ -19,7 +21,6 @@ class IdeoneTut4
 		
 		System.out.println("ABSOLUTE VALUE = " + absValue);
 		
-		// TUTORIAL 4
 		Scanner v_scan1 = new Scanner(System.in);
 		String yourName = "";
 		System.out.println("Please enter your name:");
